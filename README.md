@@ -22,6 +22,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpragya94&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/vpragya94/github-readme-stats)
 
+<br>
+<hr>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vpragya94&theme=gruvbox" alt="pragyaverma"  /></p>
+<hr>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpragya94&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Pragya's Top Languages"  /></p>
+<hr>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
