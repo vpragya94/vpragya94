@@ -1,26 +1,20 @@
-<h2> Hey there! I'm Pragya. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+## Hey <img src="https://profile-counter.glitch.me/vpragya94/count.svg"> <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Pragya!](https://github.com/vpragya94) !!
 
-<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7A87F7&size=30&lines=Hey!+It's+Pragya!;I'm+a+final+year+student...;Aspiring+MERN+Stack+Developer)](https://git.io/typing-svg)
+
+<h3> Here's some fun facts about me: </h3>
+
+- 🔭 I’m a pre-final year cs undergrad.
+- 🌱 I'm an aspiring data-scientist.
+- 👯 I’m looking to collaborate on Machine Learning and data science projects.
+- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
+- 💬 Ask me about Programming or Machine Learning.
 
 <h3>🛠 Tech Stack</h3>
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,php,nodejs,mongodb,mysql,git,c,cpp,py)](https://skills.thijs.gg)
 
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vpragya94&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Pragya Verma's Github Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpragya94&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/vpragya94/github-readme-stats)
 
 <br>
 <hr>
