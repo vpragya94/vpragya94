@@ -1,5 +1,4 @@
 <h2> Hey there! I'm Pragya. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -14,11 +13,6 @@
 <h3>🛠 Tech Stack</h3>
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,php,nodejs,mongodb,mysql,git,c,cpp,py)](https://skills.thijs.gg)
-- 💻 &nbsp; Python | C++  
-- 🌐 &nbsp; React.js| HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Mongodb
-- 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
 <br>
 
