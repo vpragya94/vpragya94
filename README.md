@@ -13,7 +13,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,php,nodejs,mongodb,mysql,git,c,cpp,py)](https://skills.thijs.gg)
 - 💻 &nbsp; Python | C++  
 - 🌐 &nbsp; React.js| HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Mongodb
