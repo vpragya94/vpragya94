@@ -1,7 +1,7 @@
 ## Hey <img src="https://profile-counter.glitch.me/vpragya94/count.svg"> <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Pragya!](https://github.com/vpragya94) !!
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7A87F7&size=30&lines=Hey!+It's+Pragya!;I'm+a+final+year+student...;Aspiring+MERN+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7A87F7&size=30&lines=Hey!+It's+Pragya!;I'm+a+final+year+student...;Aspiring+MERN+Stack+Developer...)](https://git.io/typing-svg)
 
 <h3> Here's some fun facts about me: </h3>
 
