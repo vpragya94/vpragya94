@@ -1,8 +1,7 @@
 ## Hey <img src="https://profile-counter.glitch.me/vpragya94/count.svg"> <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Pragya!](https://github.com/vpragya94) !!
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7A87F7&size=30&lines=Hey!+It's+Pragya!;I'm+a+final+year+student...;MERN+Stack+Developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7A87F7&size=30&lines=Hey!+It's+Pragya!;I'm+a+final+year+student...;MERN+Stack+Developer.)](https://git.io/typing-svg)
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I’m a final year cs undergrad.
@@ -26,6 +25,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
+&nbsp; <a href="https://twitter.com/PragyaV17291265" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
 &nbsp; <a href="https://www.linkedin.com/in/pragyaverma5/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:vpragya94@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
