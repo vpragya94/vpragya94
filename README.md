@@ -1,15 +1,14 @@
 ## Hey <img src="https://profile-counter.glitch.me/vpragya94/count.svg"> <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Pragya!](https://github.com/vpragya94) !!
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7A87F7&size=30&lines=Hey!+It's+Pragya!;I'm+a+final+year+student...;Aspiring+MERN+Stack+Developer...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7A87F7&size=30&lines=Hey!+It's+Pragya!;I'm+a+final+year+student...;MERN+Stack+Developer)](https://git.io/typing-svg)
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m a pre-final year cs undergrad.
-- 🌱 I'm an aspiring data-scientist.
-- 👯 I’m looking to collaborate on Machine Learning and data science projects.
-- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
-- 💬 Ask me about Programming or Machine Learning.
+- 🔭 I’m a final year cs undergrad.
+- 🌱 I'm an aspiring MERN Stack Developer.
+- 👯 I’m looking to collaborate on Full-stack development projects.
+- 💬 Ask me about Programming or full-stack development.
 
 <h3>🛠 Tech Stack</h3>
 
