@@ -1,9 +1,8 @@
 ## Hey <img src="https://profile-counter.glitch.me/vpragya94/count.svg"> <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Pragya!](https://github.com/vpragya94) !!
-
+<img align="right" alt="GIF" src="https://github.com/vpragya94/vpragya94/blob/main/web-designer-with-idea.gif" width="400"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7A87F7&size=30&lines=Hey!+It's+Pragya!;I'm+a+final+year+student...;MERN+Stack+Developer.)](https://git.io/typing-svg)
 
-<img align="right" alt="GIF" src="https://github.com/vpragya94/vpragya94/blob/main/web-designer-with-idea.gif" width="500"/>
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I’m a final year cs undergrad.
