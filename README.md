@@ -6,13 +6,13 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m a final year cs undergrad.
-- 🌱 I'm an aspiring MERN Stack Developer.
-- 👯 I’m looking to collaborate on Full-stack development projects.
-- 💬 Ask me about Programming or full-stack development.
-- Adding...
-- Adding...
-- Adding..
+- 🔭 I’m a final year CS undergrad.
+- 🌱 I'm a MERN Stack Developer.
+- 🌱 I'm currently working as Software Development Intern at Nineleaps.
+- 👯 I’m looking to collaborate on Full-Stack development projects.
+- 💬 Ask me about Programming or Full-Stack development.
+- ⚡ Fun fact: I love making Mandalas and Doodling the art.
+
 
 <br>
 <br>
