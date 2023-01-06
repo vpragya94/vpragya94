@@ -9,9 +9,12 @@
 - 🌱 I'm an aspiring MERN Stack Developer.
 - 👯 I’m looking to collaborate on Full-stack development projects.
 - 💬 Ask me about Programming or full-stack development.
+- Adding...
+- Adding...
+- Adding..
 
 <br>
-
+<br>
 <h3>🛠 Tech Stack</h3>
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,react,php,nodejs,mongodb,mysql,git,c,cpp,py,vscode)](https://skills.thijs.gg)
