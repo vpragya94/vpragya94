@@ -18,7 +18,7 @@
 <br>
 <h2>🛠 Tech Stack</h2>
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,react,php,nodejs,mongodb,mysql,git,c,cpp,py,vscode)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=mysql,py,linux,html,css,bootstrap,js,react,php,nodejs,mongodb,git,c,cpp,vscode)](https://skills.thijs.gg)
 
 
 <br>
