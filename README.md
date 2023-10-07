@@ -6,11 +6,11 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m a final year CS undergrad.
-- 🌱 I'm a MERN Stack Developer.
-- 🌱 I'm currently working as Software Development Intern at Nineleaps.
-- 👯 I’m looking to collaborate on Full-Stack development projects.
-- 💬 Ask me about Programming or Full-Stack development.
+- 🔭 I’m Data Analyst at Nineleaps Technology Solutions.
+- 🌱 I'm a Data Analyst.
+- 🌱 I'm proficient in MySQL, Python, Excel, Tableau, Pyspark and google sheets
+- 👯 I’m looking to collaborate on Data Science projects.
+- 💬 Ask me about Programming or Data Science.
 - ⚡ Fun fact: I love making Mandalas and Doodling the art.
 
 
