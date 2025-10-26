@@ -13,15 +13,18 @@
 
 <br>
 <br>
-<h2>🛠 🛠 Core Skills</h2>
+<h2>🛠 Core Skills</h2>
 💻
-SQL Python Excel 
+SQL, Python, Excel 
+<br>
 ⚙️
-Data Cleaning Data Analysis Data Visualization  ETL KPIs Reporting
+Data Cleaning, Data Analysis, Data Visualization, ETL, KPIs, Reporting
+<br>
 🛠
-Power BI Tableau Git GitHub
+Power BI, Tableau, Git, GitHub
+<br>
 🔧
-Jupyter Notebook VS Code Google Sheets
+Jupyter Notebook, VS Code, Google Sheets
 
 [![My Skills](https://skills.thijs.gg/icons?i=mysql,py,linux,html,css,bootstrap,js,react,php,nodejs,mongodb,git,c,cpp,vscode)](https://skills.thijs.gg)
 
