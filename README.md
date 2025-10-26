@@ -4,14 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7A87F7&size=30&lines=Hey!+It's+Pragya!;I'm+Data+Analyst...;Data+Engineer.)](https://git.io/typing-svg)
 
-<h3> Here's some fun facts about me: </h3>
+<h3> 👩‍💻 About Me: </h3>
 
-- 🔭 I’m Data Analyst at Nineleaps Technology Solutions.
-- 🌱 I'm a Data Analyst.
-- 🌱 I'm proficient in MySQL, Python, Excel, Tableau, Pyspark and google sheets
-- 👯 I’m looking to collaborate on Data Science projects.
-- 💬 Ask me about Programming or Data Science.
-- ⚡ Fun fact: I love making Mandalas and Doodling the art.
+- 🚀 Passionate about transforming data into actionable insights and solving real-world business problems.
+- 💼 Currently working as a Data Analyst at Nineleaps on-site with UBER, focusing on data analysis, reporting, and process optimization.
+- ⚙️ 2+ years of experience in data handling, SQL, Python (pandas, numpy, matplotlib, seaborn), Excel, and BI tools like Power BI, Tableau, Google Looker Studio.
+- 🌱 Exploring advanced analytics, data storytelling, automation, and building end-to-end data solutions.
+
 
 
 <br>
