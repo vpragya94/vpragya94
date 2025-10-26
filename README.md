@@ -13,7 +13,15 @@
 
 <br>
 <br>
-<h2>🛠 Tech Stack</h2>
+<h2>🛠 🛠 Core Skills</h2>
+💻
+SQL Python Excel 
+⚙️
+Data Cleaning Data Analysis Data Visualization  ETL KPIs Reporting
+🛠
+Power BI Tableau Git GitHub
+🔧
+Jupyter Notebook VS Code Google Sheets
 
 [![My Skills](https://skills.thijs.gg/icons?i=mysql,py,linux,html,css,bootstrap,js,react,php,nodejs,mongodb,git,c,cpp,vscode)](https://skills.thijs.gg)
 
