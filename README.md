@@ -39,9 +39,21 @@ Jupyter Notebook, VS Code, Google Sheets
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/PragyaV17291265" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
-&nbsp; <a href="https://www.linkedin.com/in/pragyaverma5/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:vpragya94@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://twitter.com/PragyaV17291265" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" alt="Twitter" />
+</a>
+&nbsp; <a href="https://www.linkedin.com/in/pragyaverma5/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" alt="LinkedIn" />
+</a>
+&nbsp; <a href="mailto:vpragya94@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" alt="Gmail" />
+</a>
+&nbsp; <a href="https://www.instagram.com/pragyaverma_5/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" alt="Instagram" />
+</a>
+
+
+  
 </p>
 
 ⭐️ From [Pragya Verma](https://github.com/vpragya94)
