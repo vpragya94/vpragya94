@@ -1,4 +1,4 @@
-## Hey <img src="https://profile-counter.glitch.me/vpragya94/count.svg"> <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Pragya!](https://github.com/vpragya94) !!
+## Hey there! I'm Pragya 👋 
 <br>
 <img align="right" alt="GIF" src="https://github.com/vpragya94/vpragya94/blob/main/web-designer-with-idea.gif" width="400"/>
 
