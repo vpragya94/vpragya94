@@ -1,8 +1,6 @@
 ## Hey there! I'm Pragya 👋 
 <br>
-<img align="right" alt="GIF" src="https://github.com/vpragya94/vpragya94/blob/main/web-designer-with-idea.gif" width="400"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7A87F7&size=30&lines=Hey!+It's+Pragya!;I'm+Data+Analyst...;Data+Engineer.)](https://git.io/typing-svg)
 
 <h3> 👩‍💻 About Me: </h3>
 
