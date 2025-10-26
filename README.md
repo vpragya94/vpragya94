@@ -40,16 +40,16 @@ Jupyter Notebook, VS Code, Google Sheets
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/PragyaV17291265" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" alt="Twitter" />
+  <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" width="50" alt="Twitter" />
 </a>
 &nbsp; <a href="https://www.linkedin.com/in/pragyaverma5/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" alt="LinkedIn" />
+  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50" alt="LinkedIn" />
 </a>
 &nbsp; <a href="mailto:vpragya94@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" alt="Gmail" />
+  <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50" alt="Gmail" />
 </a>
 &nbsp; <a href="https://www.instagram.com/pragyaverma_5/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" alt="Instagram" />
+  <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="50" alt="Instagram" />
 </a>
 
 
