@@ -6,7 +6,7 @@
 
 - 🚀 Passionate about transforming data into actionable insights and solving real-world business problems.
 - 💼 Currently working as a Data Analyst at Nineleaps on-site with UBER, focusing on data analysis, reporting, and process optimization.
-- ⚙️ 2+ years of experience in data handling, SQL, Python (pandas, numpy, matplotlib, seaborn), Excel, and BI tools like Power BI, Tableau, Google Looker Studio.
+- ⚙️ 3 years of experience in data handling, SQL, Python (pandas, numpy, matplotlib, seaborn), Excel, and BI tools like Power BI, Tableau, Google Looker Studio.
 - 🌱 Exploring advanced analytics, data storytelling, automation, and building end-to-end data solutions.
 
 
